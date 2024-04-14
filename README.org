@@ -3,7 +3,10 @@ This is a basic Tic Tac Toe application using JS.
 This is a project for The Odin Project
 This showcases the uses of web API and JS functions
 
+** Project Link
+
 ** Stack
 HTML, CSS, JS
 *** Future Course
-TODO Beautify the project
+-[ ] Beautify the project
+-[ ] Clean the code
