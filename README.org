@@ -1,0 +1,9 @@
+* Tic Tac Toe
+This is a basic Tic Tac Toe application using JS.
+This is a project for The Odin Project
+This showcases the uses of web API and JS functions
+
+** Stack
+HTML, CSS, JS
+*** Future Course
+TODO Beautify the project
