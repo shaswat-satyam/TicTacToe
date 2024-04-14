@@ -8,5 +8,5 @@ This showcases the uses of web API and JS functions
 ** Stack
 HTML, CSS, JS
 *** Future Course
--[ ] Beautify the project
--[ ] Clean the code
+- [ ] Beautify the project
+- [ ] Clean the code
